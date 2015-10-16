@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='ftp://anonymous@localhost/'
+let g:netrw_dirhist_2='ftp://anonymous@162.105.55.234/'
+let g:netrw_dirhist_3='ftp://162.105.55.234/'
+let g:netrw_dirhist_4='ftp://anonymous@162.105.22.234/'
+let g:netrw_dirhist_5='ftp://anonymous@162.105.55.234/'
+let g:netrw_dirhist_6='/home/hyiltiz/.vim/bundle/vim-plugins/matlab-support'
+let g:netrw_dirhist_7='ftp://anonymous@162.105.55.234/'
+let g:netrw_dirhist_8='ftp://ftp@162.105.55.234/'
+let g:netrw_dirhist_9='/Users/hormetyiltiz/Documents/Github/NoiseDiscrimination'
